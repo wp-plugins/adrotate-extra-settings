@@ -3,8 +3,8 @@ Contributors: Mte90
 Donate link: http://mte90.net
 Tags: adrotate, ad, banner, ads
 Requires at least: 3.8
-Tested up to: 3.9
-Stable tag: 1.0.0
+Tested up to: 4.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +18,7 @@ For these small features is born this plugin:
 
 * Custom Examples
 * Ads/Groups/Schedules Sortable (With jQuery TableSorter)
+* Hide section (Usage, Geolocation, Timeframe)
 * Suggestion?
 
 Github Repo: [https://github.com/Mte90/AdRotate-Extra-Settings](https://github.com/Mte90/AdRotate-Extra-Settings)
@@ -52,7 +53,21 @@ Github Repo: [https://github.com/Mte90/AdRotate-Extra-Settings](https://github.c
 
 Yes
 
+== Screenshots ==
+
+1. Config page
+2. Custom examples
+
 == Changelog ==
+
+= 1.1 =
+* Moved the settings page in the Adrotate menu
+* Removed the check for pro/free version (not required at the moment)
+* Improved tablesorter
+* Correct position for custom example
+* Hide section (usage, geolocation and timeframe)
+* Updated to last version of AdRotate Free/Pro
+* New icon
 
 = 1.0 =
 * First Release
