@@ -4,7 +4,7 @@ Donate link: http://mte90.net
 Tags: adrotate, ad, banner, ads
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,6 +61,9 @@ Yes
 2. Custom examples
 
 == Changelog ==
+
+= 1.1.1 =
+* Little fix for older PHP version
 
 = 1.1 =
 * Moved the settings page in the Adrotate menu
